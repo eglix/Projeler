@@ -1,0 +1,17 @@
+Arduino Pin 2 - Push Button 1 
+GND - Push Button 2
+
+Arduino 9 - Servo Signal
+GND - Servo GND
+5V - Servo 5V
+
+18650 5V - StepUp Bat+
+18650 GND - StepUp Bat-
+
+StepUp 5V Output - Arduino 5V 
+StepUp GND Output - Arduino GND
+
+Laser 5V - 18650 +
+Laser GND - 18650 - 
+
+Motor >> 18650
